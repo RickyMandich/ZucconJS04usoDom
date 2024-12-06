@@ -1,1 +1,0 @@
-document.getElementsByTagName("html")[0].innerHTML = document.getElementsByTagName("html")[0].innerHTML + "ciao";
